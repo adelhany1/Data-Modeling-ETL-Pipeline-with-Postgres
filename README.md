@@ -24,8 +24,8 @@ Overall, completing this project gave me hands-on experience in data modeling, E
 
 python "create_tables_2.py" :
 
-![alt text](https://github.com/adelhany1/Data-Modeling-ETL-Pipeline-with-Postgres/blob/main/Images/2.PNG)
-
 python "etl_4.py"
 
 ![alt text](https://github.com/adelhany1/Data-Modeling-ETL-Pipeline-with-Postgres/blob/main/Images/1.PNG)
+
+![alt text](https://github.com/adelhany1/Data-Modeling-ETL-Pipeline-with-Postgres/blob/main/Images/2.PNG)
