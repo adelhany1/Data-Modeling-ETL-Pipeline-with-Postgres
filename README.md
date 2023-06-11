@@ -23,8 +23,9 @@ Overall, completing this project gave me hands-on experience in data modeling, E
 ## Running the project
 
 python "create_tables_2.py" :
-python "etl_4.py"
 
 ![alt text]([https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/control%20flow.PNG](https://github.com/adelhany1/Data-Modeling-ETL-Pipeline-with-Postgres/blob/main/Images/1.PNG))
+
+python "etl_4.py"
 
 ![alt text]([https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/control%20flow.PNG](https://github.com/adelhany1/Data-Modeling-ETL-Pipeline-with-Postgres/blob/main/Images/2.PNG))
