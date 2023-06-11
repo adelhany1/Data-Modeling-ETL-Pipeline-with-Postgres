@@ -20,10 +20,11 @@ Throughout the project, I documented my design decisions, assumptions, and steps
 
 Overall, completing this project gave me hands-on experience in data modeling, ETL processes, and database management using PostgreSQL. I gained a deeper understanding of how to design an effective data schema, extract data from various sources, transform it for analysis, and leverage SQL for querying and data analysis. This project was a valuable opportunity to apply the concepts and techniques learned throughout the Data Engineering Nanodegree program in a real-world scenario.
 
+## Running the project
+
 python "create_tables_2.py" :
-
-![alt text](https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/control%20flow.PNG)
-
 python "etl_4.py"
 
-![alt text](https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/control%20flow.PNG)
+![alt text]([https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/control%20flow.PNG](https://github.com/adelhany1/Data-Modeling-ETL-Pipeline-with-Postgres/blob/main/Images/1.PNG))
+
+![alt text]([https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/control%20flow.PNG](https://github.com/adelhany1/Data-Modeling-ETL-Pipeline-with-Postgres/blob/main/Images/2.PNG))
