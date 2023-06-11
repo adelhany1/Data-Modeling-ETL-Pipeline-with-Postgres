@@ -24,8 +24,8 @@ Overall, completing this project gave me hands-on experience in data modeling, E
 
 python "create_tables_2.py" :
 
-![alt text]([https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/control%20flow.PNG])
+![alt text](https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/control%20flow.PNG)
 
 python "etl_4.py"
 
-![alt text]([https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/control%20flow.PNG])
+![alt text](https://github.com/adelhany1/Telecom-ETL-with_SSIS/blob/main/control%20flow.PNG)
